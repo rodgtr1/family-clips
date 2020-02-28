@@ -1,16 +1,15 @@
-# my_app
+## Family Clips
 
-A new Flutter project.
+Video tutorial [can be found here](https://youtu.be/FXTLazKDjzA).
 
-## Getting Started
+Let's build a new, FUN app with Flutter. 
 
-This project is a starting point for a Flutter application.
+"Family Clips" is a simple Flutter app that displays each member of your family in a grid, and when you click on a family member it plays a variety of audio clips from them. My kids found this hilarious. 
 
-A few resources to get you started if this is your first Flutter project:
+In this video/repo, we'll build this app using the McCallister family, from Home Alone, to demonstrate functionality. 
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+You will:
+- Learn basic Flutter / Dart concepts and layouts
+- Learn how to generate random numbers/images using the Dart Math package
+- Learn how to load and play audio clips using the audioplayers library
+- Have a fun app to share with your spouse, family, or friends. Add anyone you want to it!!
